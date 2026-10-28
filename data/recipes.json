@@ -1,0 +1,607 @@
+[
+  {
+    "id": "recipe-1793201152554",
+    "title": "蒜香姜味爆炒虾蟹",
+    "subtitle": "",
+    "category": "家常中餐",
+    "cuisine": "私房中式",
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 15,
+    "baseServings": 2,
+    "difficulty": 3,
+    "coverImage": "",
+    "weatherStamp": "☀️ 晴暖好食",
+    "utensils": [
+      "不粘煎锅",
+      "主厨刀"
+    ],
+    "ingredients": [
+      {
+        "id": "ing-1",
+        "name": "梭子蟹",
+        "amount": 600,
+        "unit": "克",
+        "category": "main"
+      },
+      {
+        "id": "ing-2",
+        "name": "生抽",
+        "amount": 2,
+        "unit": "汤匙",
+        "category": "seasoning",
+        "note": "提鲜"
+      },
+      {
+        "id": "ing-3",
+        "name": "蚝油",
+        "amount": 1,
+        "unit": "汤匙",
+        "category": "seasoning"
+      },
+      {
+        "id": "ing-17932009558645d3p",
+        "name": "白胡椒粉",
+        "amount": 1,
+        "unit": "小勺",
+        "category": "seasoning",
+        "note": ""
+      },
+      {
+        "id": "ing-17932010201147tgo",
+        "name": "清水",
+        "amount": 100,
+        "unit": "克",
+        "category": "seasoning",
+        "note": ""
+      },
+      {
+        "id": "ing-17932010567335jx7",
+        "name": "淀粉",
+        "amount": 1,
+        "unit": "汤匙",
+        "category": "seasoning",
+        "note": ""
+      },
+      {
+        "id": "ing-1793201086150v1w6",
+        "name": "小葱段",
+        "amount": 3,
+        "unit": "根",
+        "category": "garnish",
+        "note": ""
+      },
+      {
+        "id": "ing-1793201094850nztb",
+        "name": "黑虎虾",
+        "amount": 8,
+        "unit": "只",
+        "category": "main",
+        "note": ""
+      }
+    ],
+    "steps": [
+      {
+        "id": "st-1",
+        "stepNumber": 1,
+        "title": "洗净切配与备料",
+        "description": "食材洗净后改刀切块备用，沥干水分。",
+        "durationMinutes": 10,
+        "heat": "中火",
+        "tip": "食材水分需用厨房纸吸干，避免入锅油花飞溅。"
+      },
+      {
+        "id": "st-2",
+        "stepNumber": 2,
+        "title": "入锅烹饪与调味",
+        "description": "热锅凉油，下入调料煸炒出香气，均匀包裹食材翻炒。",
+        "durationMinutes": 15,
+        "heat": "大火"
+      }
+    ],
+    "review": {
+      "tastingNotes": "",
+      "pitfallsAndLessons": "",
+      "pairingSuggestions": "",
+      "ratings": {
+        "taste": 5,
+        "difficulty": 3,
+        "reproducibility": 5,
+        "presentation": 5
+      },
+      "stickers": [
+        "🍚 米饭杀手",
+        "✨ 满分硬菜"
+      ],
+      "dinerFeedback": "",
+      "cookDate": "2026-10-28"
+    },
+    "createdAt": "2026-10-28",
+    "updatedAt": "2026-10-28",
+    "isFavorite": false
+  },
+  {
+    "id": "recipe-braised-pork",
+    "title": "私房陈年花雕秘制红烧肉",
+    "subtitle": "肥而不腻、软糯醇厚，浓油赤酱里藏着治愈的时光慢炖。",
+    "coverImage": "",
+    "category": "家常中餐",
+    "cuisine": "本帮/江浙",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 60,
+    "baseServings": 3,
+    "difficulty": 3,
+    "utensils": [
+      "厚底铸铁炖锅",
+      "厨房不粘煎锅",
+      "食品料理夹"
+    ],
+    "weatherStamp": "🌧️ 雨天暖锅",
+    "isFavorite": true,
+    "createdAt": "2026-10-20",
+    "updatedAt": "2026-10-24",
+    "ingredients": [
+      {
+        "id": "i1",
+        "name": "高品质五花三层带皮五花肉",
+        "amount": 600,
+        "unit": "克",
+        "category": "main",
+        "note": "切成3cm见方均匀小方块"
+      },
+      {
+        "id": "i2",
+        "name": "黄冰糖（散碎状）",
+        "amount": 35,
+        "unit": "克",
+        "category": "seasoning",
+        "note": "炒糖色专用，色泽红亮温润"
+      },
+      {
+        "id": "i3",
+        "name": "陈年花雕酒 / 绍兴黄酒",
+        "amount": 150,
+        "unit": "毫升",
+        "category": "seasoning",
+        "note": "醇香去腥，不加一滴生水"
+      },
+      {
+        "id": "i4",
+        "name": "特级酿造生抽",
+        "amount": 35,
+        "unit": "毫升",
+        "category": "seasoning",
+        "note": "提鲜咸口"
+      },
+      {
+        "id": "i5",
+        "name": "老抽",
+        "amount": 12,
+        "unit": "毫升",
+        "category": "seasoning",
+        "note": "深邃着色"
+      },
+      {
+        "id": "i6",
+        "name": "老姜片",
+        "amount": 5,
+        "unit": "厚片",
+        "category": "seasoning",
+        "note": "拍松散发姜油"
+      },
+      {
+        "id": "i7",
+        "name": "京葱葱白段",
+        "amount": 3,
+        "unit": "段",
+        "category": "seasoning",
+        "note": "约手指长"
+      },
+      {
+        "id": "i8",
+        "name": "八角（大茴香）",
+        "amount": 2,
+        "unit": "枚",
+        "category": "seasoning",
+        "note": "不可贪多，以免药味重"
+      },
+      {
+        "id": "i9",
+        "name": "桂皮",
+        "amount": 1,
+        "unit": "小片",
+        "category": "seasoning"
+      },
+      {
+        "id": "i10",
+        "name": "香葱碎与熟白芝麻",
+        "amount": 1,
+        "unit": "小碟",
+        "category": "garnish",
+        "note": "出锅点缀提香"
+      }
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "stepNumber": 1,
+        "title": "冷水焯水去血沫",
+        "description": "五花肉冷水下锅，加入2片生姜与20ml料酒。大火煮沸后撇去浮沫，再煮3分钟至肉块紧实，捞出用温热水冲洗干净表面沥干。",
+        "durationMinutes": 8,
+        "heat": "大火",
+        "tip": "千万不要用冷水冲洗刚出锅的热肉，肉质遇冷骤缩会发柴，一定要用温热水冲洗！"
+      },
+      {
+        "id": "s2",
+        "stepNumber": 2,
+        "title": "小火煸煎油脂",
+        "description": "不粘锅无需倒油，直接下入沥干的五花肉块，中小火慢煎。逼出多余油脂，直至四面微微焦黄金脆，夹出控油。",
+        "durationMinutes": 6,
+        "heat": "中火",
+        "tip": "逼出猪油可以让红烧肉吃起来香而不腻，煎出来的原油可以留着炒青菜极其喷香。"
+      },
+      {
+        "id": "s3",
+        "stepNumber": 3,
+        "title": "慢炒晶莹琥珀糖色",
+        "description": "锅底留少许底油，下入碎黄冰糖，最小火慢搅。当冰糖完全融化，由浅黄转为浓郁的琥珀色，并冒出细腻小泡沫瞬间，立刻倒入肉块翻炒挂霜上色。",
+        "durationMinutes": 4,
+        "heat": "微火",
+        "tip": "炒糖色讲究眼疾手快，冒密集大泡时转小泡即可下肉，晚3秒就会发苦变焦！"
+      },
+      {
+        "id": "s4",
+        "stepNumber": 4,
+        "title": "花雕慢炖与香料入味",
+        "description": "转入铸铁厚底锅，下葱段、姜片、八角、桂皮。倒入150ml陈年花雕酒、生抽、老抽，倒入温开水至刚好没过肉块。大火烧开后加盖，转最小火慢炖45分钟。",
+        "durationMinutes": 45,
+        "heat": "微火",
+        "tip": "铸铁锅锁水极佳，小火煨炖能让胶原蛋白彻底软化成如果冻般的糯感。"
+      },
+      {
+        "id": "s5",
+        "stepNumber": 5,
+        "title": "大火收汁挂琥珀琉璃芡",
+        "description": "开盖挑出葱姜和八角香料弃去。转大火不断用锅铲推动肉块收汁，直至汤汁逐渐浓稠如红宝石蜜汁，均匀裹在每块肉肉上，撒葱花和熟芝麻出锅。",
+        "durationMinutes": 5,
+        "heat": "大火",
+        "tip": "收汁时务必守在灶台边，浓汁容易糊底，轻轻翻动让每块肉都裹上亮晶晶的琉璃芡。"
+      }
+    ],
+    "review": {
+      "tastingNotes": "肥肉入口即化，瘦肉软烂拉丝！糖色炒得很精准，花雕酒香随着热气四溢，回甘层次极其饱满。汤汁拌热腾腾的五常大米饭，连吃了两碗。",
+      "pitfallsAndLessons": "第4步收汁前尝了下咸淡刚好，无需再加额外盐；下次可以提前15分钟加几个虎皮鹌鹑蛋或结子百叶，吸满肉汁肯定绝配。",
+      "pairingSuggestions": "东北香米饭、清炒爽脆芥蓝、陈年普洱茶或温热黄酒。",
+      "ratings": {
+        "taste": 5,
+        "difficulty": 3,
+        "reproducibility": 5,
+        "presentation": 5
+      },
+      "stickers": [
+        "🍚 米饭杀手",
+        "✨ 满分硬菜",
+        "🌿 治愈系美味",
+        "🔥 锅气十足"
+      ],
+      "dinerFeedback": "“这是家里近一年做过最好吃的红烧肉，皮Q肉糯，完全停不下来！”—— 家人一致全票通过",
+      "cookDate": "2026-10-24"
+    }
+  },
+  {
+    "id": "recipe-matcha-chiffon",
+    "title": "若竹宇治抹茶云朵戚风",
+    "subtitle": "如云朵般轻盈柔软，微苦清冽的茶香与醇厚奶香在舌尖回甘。",
+    "coverImage": "",
+    "category": "烘焙甜点",
+    "cuisine": "日式洋果子",
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 40,
+    "baseServings": 4,
+    "difficulty": 4,
+    "utensils": [
+      "6寸阳极活底戚风模具",
+      "电动手持打蛋器",
+      "硅胶软刮刀",
+      "面粉筛网",
+      "厨房电子秤"
+    ],
+    "weatherStamp": "🍃 微风闲日",
+    "isFavorite": true,
+    "createdAt": "2026-10-18",
+    "updatedAt": "2026-10-22",
+    "ingredients": [
+      {
+        "id": "m1",
+        "name": "冷藏新鲜鸡蛋（单枚带壳约60g）",
+        "amount": 3,
+        "unit": "个",
+        "category": "main",
+        "note": "蛋白与蛋黄严格分立，容器无水无油"
+      },
+      {
+        "id": "m2",
+        "name": "日式若竹抹茶粉",
+        "amount": 9,
+        "unit": "克",
+        "category": "main",
+        "note": "过筛2遍，色泽鲜绿清甘"
+      },
+      {
+        "id": "m3",
+        "name": "低筋面粉",
+        "amount": 45,
+        "unit": "克",
+        "category": "main",
+        "note": "与抹茶粉混合过筛"
+      },
+      {
+        "id": "m4",
+        "name": "全脂纯牛奶",
+        "amount": 45,
+        "unit": "克",
+        "category": "seasoning",
+        "note": "微温35℃便于化解抹茶"
+      },
+      {
+        "id": "m5",
+        "name": "玉米油 / 无味植物油",
+        "amount": 30,
+        "unit": "克",
+        "category": "seasoning"
+      },
+      {
+        "id": "m6",
+        "name": "细砂糖（蛋白霜打发）",
+        "amount": 40,
+        "unit": "克",
+        "category": "seasoning",
+        "note": "分三次加入蛋白霜"
+      },
+      {
+        "id": "m7",
+        "name": "细砂糖（蛋黄糊乳化）",
+        "amount": 10,
+        "unit": "克",
+        "category": "seasoning"
+      },
+      {
+        "id": "m8",
+        "name": "新鲜柠檬汁 / 白醋",
+        "amount": 4,
+        "unit": "滴",
+        "category": "seasoning",
+        "note": "稳定蛋白泡沫"
+      },
+      {
+        "id": "m9",
+        "name": "装饰用防潮糖粉与新鲜薄荷",
+        "amount": 1,
+        "unit": "撮",
+        "category": "garnish"
+      }
+    ],
+    "steps": [
+      {
+        "id": "ms1",
+        "stepNumber": 1,
+        "title": "抹茶液乳化与蛋黄糊制作",
+        "description": "微温牛奶倒入抹茶粉中，用茶筅或手抽仔细搅匀至无颗粒。加入玉米油和10g细砂糖，快速搅拌乳化至酸奶状。筛入低筋面粉，划Z字拌匀，最后加入3个蛋黄拌顺滑。",
+        "durationMinutes": 10,
+        "heat": "中火",
+        "tip": "划Z字搅拌，不要画圈搅拌以免面粉起筋导致蛋糕坍塌。"
+      },
+      {
+        "id": "ms2",
+        "stepNumber": 2,
+        "title": "蛋白打发至湿性偏干状态",
+        "description": "冷藏蛋白滴入柠檬汁，打蛋器高速打至鱼眼大泡加1/3糖；细密泡沫加1/3糖；出现纹路加最后1/3糖。转低速整理气泡，提起到微弯小鸟嘴状态（偏干性发泡）。",
+        "durationMinutes": 8,
+        "heat": "小火",
+        "tip": "盆底蛋白也要刮起打匀，盆壁刮干净，打发过头容易开裂，打发不足容易缩腰。"
+      },
+      {
+        "id": "ms3",
+        "stepNumber": 3,
+        "title": "翻拌混合面糊",
+        "description": "取1/3蛋白霜入蛋黄糊，用翻拌手法（2点到8点方向抄底翻起）混合均匀。再倒回剩余蛋白霜中，快速轻柔翻拌至颜色均匀一致的淡翡翠绿。",
+        "durationMinutes": 4,
+        "heat": "微火",
+        "tip": "动作要轻快，切忌画圈，30次翻拌以内完成以防消泡。"
+      },
+      {
+        "id": "ms4",
+        "stepNumber": 4,
+        "title": "入模震泡与低温烘烤",
+        "description": "面糊从20cm高处倒入6寸阳极模具中，按住烟囱模或在桌上震两下震出大气泡。放入预热150℃烤箱中下层，上下火烘烤42分钟。",
+        "durationMinutes": 42,
+        "heat": "烤箱预热/烘烤",
+        "tip": "烤箱必须提前预热到位；烘烤中途严禁打开烤箱门，以免冷空气骤入回缩。"
+      },
+      {
+        "id": "ms5",
+        "stepNumber": 5,
+        "title": "倒扣彻底晾凉脱模",
+        "description": "出炉后立即从高处摔一下震出热气，随后迅速倒扣在晾网或酒瓶颈上。完全凉透（约1.5小时后）再手工徒手脱模，切块撒防潮糖粉。",
+        "durationMinutes": 60,
+        "heat": "关火焖",
+        "tip": "没凉透绝不能脱模，内部水汽尚未散尽会导致蛋糕体塌陷。"
+      }
+    ],
+    "review": {
+      "tastingNotes": "高度爬升非常完美，毛孔组织细腻如丝绸！用若竹抹茶的微苦平衡了糖分，入口化水感很强烈，配上一杯冷萃煎茶简直是春天的味道。",
+      "pitfallsAndLessons": "蛋白打到偏硬性一点点支撑力更强，烤箱温度实际148℃最稳。下次可以尝试中间夹入蜜红豆粒增加咀嚼乐趣。",
+      "pairingSuggestions": "冷萃日本玉露煎茶、热燕麦拿铁、香草打发鲜奶油。",
+      "ratings": {
+        "taste": 5,
+        "difficulty": 4,
+        "reproducibility": 4,
+        "presentation": 5
+      },
+      "stickers": [
+        "☕ 下午茶时光",
+        "🌿 治愈系美味",
+        "✨ 满分硬菜",
+        "🎯 零失败配方"
+      ],
+      "dinerFeedback": "“朋友来家里下午茶，一口惊艳，说比烘焙店买的戚风还轻盈无负担！”",
+      "cookDate": "2026-10-22"
+    }
+  },
+  {
+    "id": "recipe-shrimp-pasta",
+    "title": "蒜香黄油黑虎虾宽意面",
+    "subtitle": "锅气腾腾的西式快手晚餐，浓郁蒜香乳化酱汁包裹每一根手工弹韧面条。",
+    "coverImage": "",
+    "category": "西式轻餐",
+    "cuisine": "意式经典",
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 15,
+    "baseServings": 2,
+    "difficulty": 2,
+    "utensils": [
+      "深煮面不锈钢锅",
+      "平底不粘平底锅",
+      "硅胶意面夹",
+      "擦丝器"
+    ],
+    "weatherStamp": "🌙 深夜食堂",
+    "isFavorite": false,
+    "createdAt": "2026-10-15",
+    "updatedAt": "2026-10-21",
+    "ingredients": [
+      {
+        "id": "p1",
+        "name": "新鲜黑虎虾（去壳开背去虾线，留尾）",
+        "amount": 8,
+        "unit": "只",
+        "category": "main",
+        "note": "用厨房纸彻底吸干表面水分"
+      },
+      {
+        "id": "p2",
+        "name": "粗粒小麦硬质宽意面 (Tagliatelle)",
+        "amount": 180,
+        "unit": "克",
+        "category": "main"
+      },
+      {
+        "id": "p3",
+        "name": "新鲜大蒜头",
+        "amount": 6,
+        "unit": "瓣",
+        "category": "seasoning",
+        "note": "4瓣切薄蒜片，2瓣压泥"
+      },
+      {
+        "id": "p4",
+        "name": "无盐发酵黄油",
+        "amount": 25,
+        "unit": "克",
+        "category": "seasoning",
+        "note": "冷藏小方块，最后乳化关键"
+      },
+      {
+        "id": "p5",
+        "name": "特级初榨橄榄油",
+        "amount": 20,
+        "unit": "毫升",
+        "category": "seasoning"
+      },
+      {
+        "id": "p6",
+        "name": "干白葡萄酒",
+        "amount": 30,
+        "unit": "毫升",
+        "category": "seasoning",
+        "note": "去腥提香"
+      },
+      {
+        "id": "p7",
+        "name": "圣女果 / 小番茄",
+        "amount": 6,
+        "unit": "颗",
+        "category": "garnish",
+        "note": "对半切开"
+      },
+      {
+        "id": "p8",
+        "name": "现磨黑胡椒碎与海盐",
+        "amount": 1,
+        "unit": "适量",
+        "category": "seasoning"
+      },
+      {
+        "id": "p9",
+        "name": "新鲜平叶欧芹碎 (Italian Parsley)",
+        "amount": 1,
+        "unit": "小把",
+        "category": "garnish"
+      },
+      {
+        "id": "p10",
+        "name": "帕玛森干酪 (Parmigiano Reggiano)",
+        "amount": 15,
+        "unit": "克",
+        "category": "garnish",
+        "note": "现擦细丝"
+      }
+    ],
+    "steps": [
+      {
+        "id": "ps1",
+        "stepNumber": 1,
+        "title": "煮意面并保留浓白面汤",
+        "description": "大锅足量水加一小勺盐（如海水般咸），水沸后下入宽面。按包装时间少煮1分30秒（维持Al dente弹牙感）。沥干捞出前务必盛出一小碗煮面水备用！",
+        "durationMinutes": 8,
+        "heat": "大火",
+        "tip": "千万不要倒掉煮面水！里面的淀粉是让橄榄油和黄油完美乳化成奶油般质地的神级秘密。"
+      },
+      {
+        "id": "ps2",
+        "stepNumber": 2,
+        "title": "冷油慢炸金黄蒜油",
+        "description": "平底锅倒入橄榄油，冷油下入蒜片和小番茄，小火慢熬出蒜香至边缘微焦金黄。下入黑虎虾，两面各煎1分钟至虾身卷曲变红，烹入白葡萄酒激出香气，盛出虾备用。",
+        "durationMinutes": 4,
+        "heat": "中火",
+        "tip": "大蒜容易炸焦发苦，务必小火慢浸，闻到浓郁蒜香立刻下虾。"
+      },
+      {
+        "id": "ps3",
+        "stepNumber": 3,
+        "title": "猛火晃锅让酱汁乳化挂面",
+        "description": "原锅倒入80ml热煮面水，倒入煮好的意面。开大火不断摇晃平底锅，面汤与蒜油迅速撞击乳化成乳白色浓稠酱汁，面条吸饱鲜汁。",
+        "durationMinutes": 2,
+        "heat": "大火",
+        "tip": "摇晃平底锅的物理乳化过程（Mantecatura）是意面口感升华的灵魂。"
+      },
+      {
+        "id": "ps4",
+        "stepNumber": 4,
+        "title": "关火溶入冷黄油与摆盘",
+        "description": "关火离开热源！立刻投入冷黄油块、黑虎虾与欧芹碎，用余温快速拌匀，黄油融化让酱汁如同天鹅绒般丝滑。装盘擦上厚厚一层帕玛森干酪与现磨黑胡椒。",
+        "durationMinutes": 2,
+        "heat": "关火焖",
+        "tip": "一定要离火拌入冷黄油，否则黄油油水分离会失去柔滑乳化质感。"
+      }
+    ],
+    "review": {
+      "tastingNotes": "酱汁彻底附着在宽面上，每一口都带着奶香黄油和微焦蒜甜。大虾肉质紧实脆弹，小番茄爆汁解腻，15分钟做出的餐厅级品质。",
+      "pitfallsAndLessons": "盐分主要依靠煮面水和干酪，锅里调味只加了少许海盐刚刚好；欧芹一定要用新鲜的，干欧芹香气差很远。",
+      "pairingSuggestions": "长相思干白葡萄酒（Sauvignon Blanc）、冰镇起泡水配柠檬片。",
+      "ratings": {
+        "taste": 5,
+        "difficulty": 2,
+        "reproducibility": 5,
+        "presentation": 4
+      },
+      "stickers": [
+        "⏱️ 15分钟快手",
+        "🍷 绝佳佐餐",
+        "✨ 满分硬菜",
+        "🎯 零失败配方"
+      ],
+      "dinerFeedback": "“周五下班疲惫时做这道菜，闻到蒜油香气整个人都被治愈了！”",
+      "cookDate": "2026-10-21"
+    }
+  }
+]
